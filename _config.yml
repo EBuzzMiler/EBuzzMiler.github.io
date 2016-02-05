@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://EBuzzMiler.github.io
+title: EBuzzMiler's Technical Papers
+tagline: A Smashup of Technical Details Here
+description: This Blog attempts to provide a place to document information technology descriptions and explain successful applications of both hardware and software.  <br /><br />There is a lot of information on the web that I peruse weekly. This is an attempt to more deliberately focus the topics on successful implementations of technology and focus on economy and ease of implementation.  Simplicity and style will be drawn up as the essential ingredient.
+paginate: 2
