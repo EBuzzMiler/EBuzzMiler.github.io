@@ -5,17 +5,17 @@ layout: post
 tags: [Web, Servers, Web, Services, Web, Applications, Web, Cloud, platforms, web, hosting, and, web, security., ]
 categories: [Web, Spheres, and, Web, Paradigms]
 ---
-This starts a new beginning for me. It provides what was a latent desire come alive. Help me better understand information technology so I can combine my knowledge and write more.
+This starts a new beginning for me. What was a latent desire has now come alive. Help me to better understand information technology and combine knowledge to write more and I will help people learn.
 
-My purpose is to continue my education.  I read books but, seldom do I read within my field. Writing about information technology is a wider field than the givens. I want to move towards a goal. My IT jobs have been hampered by myopic thinking for it has felt too much like work without enjoyment. Rather than sticking to topics gleaned from work, growth will come from daily study.  
+My purpose is to continue my education.  I read books but, seldom do I read in my field. Writing about information technology is a givens that I have done without much study. Move me towards the goal. My IT jobs seemed to hamper my thinking for it was too much like work without employment. What? Rather than making a contribution to the day to day, I was cast in the role of reporting thought-casting.  
 
-So it's with plenty of fear and trepidation I cursor on ahead to make up rules as I go. I have been reluctant to write because I know how hard it is.  To keep providing readers meaningful content keeps them engaged for another day. They all can... 'check out any time they like, but they can never leave.'  
+So it's with plenty of fear and trepidation I cursor up ahead to make the rules as I go. I know how hard it is to write.  To provide readers content keeps them engaged for yet another day. They can... 'check out any time they like, but they can never leave.'  
 
-When younger, I did not want a record of my writing to pigeon hole me to the topic.  As I spend time helping others discover opportunities to learn my effort improves my writing.  I can build a portfolio too.  
+When younger, I did not want a record of my writing thinking it would pigeon hole me.  As I spend time helping others discover opportunities, I learn my effort improves my writing.  I am building a portfolio.
 
-Since brevity is wit, I'll outline what I intend to do here.
+Since brevity is wit, I'll outline what I intend to do.
 
-There's now more than a billion websites on the internet. That provides sources for good descriptive copy and content on applications on web.  It is the modern day theater within a theatre.  Today's  information technologies help business to understand business while helping deliver the explanations. Each making different assumptions to target their readership.  Mostly, the narrative is aimed at a busy public with a need to understand and assemble information technology hardware and software solve a business problem, help capture more market share or communicate company breaking news.
+There's now more than a billion websites on the internet. Try to provide good descriptive copy and valuable content from sources of applications on web.  It is the modern day theater within a theatre.  Today's  information technologies help business to understand business while helping deliver the explanations. Each making different assumptions to target their readership.  Mostly, the narrative is aimed at a busy public with a need to understand and assemble information technology hardware and software solve a business problem, help capture more market share or communicate company breaking news.
  
 This is a shallow purpose, but one that takes IT knowledge and makes a connection.  Some mistakes will need to be made.  We have to assume and assimulate new concepts never before applied all while adapting solid principles of IT designed to be shared with an audience. 
 
